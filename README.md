@@ -25,7 +25,7 @@ A full-stack flight booking website using MySQL. Users can search, select, and b
 ![Demo GIF](https://user-images.githubusercontent.com/.../demo.gif)  
 
 ### [Genetic Algorithm for AI2](https://github.com/YourUsername/ga-ai2)  
-Created a Genetic Algorithm for my Moudle "Artificial Intelligence 2" . Learned about evolutionary strategies, fitness functions, and algorithm efficiency.  
+Created a Genetic Algorithm for my Module "Artificial Intelligence 2" . Learned about evolutionary strategies, fitness functions, and algorithm efficiency.  
 
 ---
 
