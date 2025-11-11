@@ -34,11 +34,9 @@ A small educational OS written in x86 assembly with bootloader, basic shell comm
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Graph
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=dracula)
 
 ---
 
