@@ -1,4 +1,4 @@
-# Hello 👋, I'm Nick Greiner
+# Hi! I'm Nick Greiner
 
 I’m a Computer Science student at UWE Bristol passionate about software engineering, problem-solving, and building real-world projects.  
 
@@ -18,7 +18,7 @@ I’m a Computer Science student at UWE Bristol passionate about software engine
 
 ---
 
-## 🛠️ Projects
+## My Projects:
 
 ### [Horizon Travels](https://github.com/YourUsername/horizon-travels-booking-website)  
 A full-stack flight booking website using MySQL. Users can search, select, and book flights between any departure and arrival locations.  
@@ -29,7 +29,7 @@ Created a Genetic Algorithm for my Module "Artificial Intelligence 2" . Learned 
 
 ---
 
-## 📫 Connect with me
+## Connect with me: 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/nickolas-greiner))
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:greinernickolas05@gmail.com)
